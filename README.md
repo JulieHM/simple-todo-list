@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Todo list
+Dette prosjektet inneholder en enkel todo applikasjon. Hvor man kan legge til, slette og huke av gjøremål etterhvert som man fullfører dem. 
+
+Appen er utviklet med React og det er brukt local storage for å beholde gjøremålene selvom man lukker siden. For design har jeg benyttet meg av [Ant Design](https://ant.design/) som er et populært React UI bibliotek. I tillegg har jeg selv laget bakgrunnen i appen som er en SVG fil. 
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
