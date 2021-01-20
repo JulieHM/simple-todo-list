@@ -1,7 +1,9 @@
 # Todo list
 Dette prosjektet inneholder en enkel todo applikasjon. Hvor man kan legge til, slette og huke av gjøremål etterhvert som man fullfører dem. 
 
-Appen er utviklet med React og det er brukt local storage for å beholde gjøremålene selvom man lukker siden. For design har jeg benyttet meg av [Ant Design](https://ant.design/) som er et populært React UI bibliotek. I tillegg har jeg laget bakgrunnen i appen, som er en SVG fil. 
+Appen er utviklet med React og det er brukt local storage for å beholde gjøremålene selvom man lukker siden. For design har jeg benyttet meg av React UI biblioteket [Ant Design](https://ant.design/). 
+
+Bakgrunnen i appen er en SVG fil som jeg har laget selv i Affinity Designer programmet. 
 
 
 
